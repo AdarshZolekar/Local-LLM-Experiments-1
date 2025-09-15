@@ -4,7 +4,7 @@ This repository documents experiments running **lightweight large language model
 
 ---
 
-## Tools & Frameworks
+## Tools & Frameworks 
 
 - **LM Studio** – Local GUI and inference server for GGUF models. 
  
@@ -52,6 +52,7 @@ See `scripts/run_deepseek.py` and `scripts/run_mistral.py` for examples.
 - Explore llama.cpp for lower RAM setups
 
 **Keywords:** LM Studio, DeepSeek-R1, Mistral, GGUF, Local AI, LLM and Python API.
+
 
 
 
